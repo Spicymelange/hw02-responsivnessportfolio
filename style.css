@@ -6,10 +6,6 @@ body {
     margin-bottom: 50px;
 }
 
-container {
-    position: relative;
-}
-
 .navbar {
     background: #2d8d7d;
     padding-bottom: 20px;
@@ -38,6 +34,10 @@ container {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 10px;
+}
+
+.scratch {
+    margin-top: 25%;
 }
 
 .image{
