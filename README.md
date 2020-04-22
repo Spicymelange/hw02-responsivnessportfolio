@@ -1,4 +1,4 @@
-# hw02-responsivne webpage
+# hw02-responsivness webpage
 
 Homework 2- responsive webpage
 
